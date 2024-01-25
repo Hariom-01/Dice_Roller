@@ -1,0 +1,22 @@
+.container{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 2rem;
+    font-weight: bold;
+}
+input{
+    text-align: center;
+    color: rgb(255, 115, 0);
+    font-weight: 100;
+    font-size: 2rem;
+}
+h1{
+    text-align: center;
+    color: blue;
+}
+label{
+    margin: auto 4px 0;
+    
+}
+.num{
+    font-size: 20rem;
+}
